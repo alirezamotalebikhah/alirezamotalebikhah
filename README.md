@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🛠️ Technical Skills
 
-<!--
-**alirezamotalebikhah/alirezamotalebikhah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Programming Languages
+- **Python** – Proficient in numerical modeling and optimization; familiar with applications in power systems and machine learning
+- **GAMS** – Stochastic and deterministic optimization for energy and power systems
+- **MATLAB** – Power systems simulation and control modeling
 
-Here are some ideas to get you started:
+### 🚀 Currently Learning
+- **Django** – Backend web development with Python
+- **Data Science** – Including machine learning fundamentals and data-driven modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Background
+- Electrical Power Systems Engineering with academic experience in **optimization** and **simulation of power systems**
