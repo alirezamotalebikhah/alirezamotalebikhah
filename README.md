@@ -1,28 +1,28 @@
 ## Technical Skills
 
 ### Programming & Data Engineering
-- Advanced Python programming with extensive experience in backend development using Django, including RESTful API design, data processing pipelines, and web application deployment.
-- Strong knowledge of relational databases, particularly SQL and PostgreSQL, with expertise in query optimization, schema design, and data modeling for scalable applications.
-- Experienced in data engineering tasks, including building and managing ETL pipelines, large-scale data workflows, and data integration for analytics and machine learning applications.
+- **Advanced Python** with experience in **backend development using Django**, including RESTful APIs and data processing pipelines.
+- Strong knowledge of **SQL & PostgreSQL** for query optimization, schema design, and scalable data modeling.
+- Experienced in **data engineering**, building and managing **ETL pipelines**, large-scale workflows, and data integration for analytics and machine learning.
 
 ### Big Data & NoSQL
-- Experienced in the Hadoop ecosystem, including Hive and Spark, for large-scale distributed data processing and analytics.
-- Proficient in NoSQL databases such as Redis, Cassandra, and ClickHouse, focusing on high-performance, low-latency data storage and retrieval in real-time applications.
+- Proficient in the **Hadoop ecosystem (Hive, Spark)** for distributed data processing and analytics.
+- Skilled in **NoSQL databases** such as **Redis, Cassandra, and ClickHouse** for high-performance, low-latency data storage.
 
 ### System Administration & DevOps
-- Skilled in Docker containerization, image management, and container orchestration.
-- Expertise in Kafka for real-time data streaming and event-driven architectures.
-- LPIC-1 certified in Linux system administration.
-- Currently expanding knowledge in DevOps tools, including Kubernetes and Ansible, for automated deployment and infrastructure management.
+- **Docker** containerization and orchestration.
+- **Kafka** for real-time data streaming.
+- **LPIC-1 certified** in Linux administration.
+- Learning **Kubernetes & Ansible** for automated deployment.
 
-### Data Analysis & Machine Learning Basics
-- Strong foundation in data analysis concepts with proficiency in Python libraries such as Pandas and NumPy.
-- Familiar with basic machine learning principles and workflows, including data preprocessing, feature engineering, and model evaluation.
+### Data Analysis & Machine Learning
+- Strong foundation in **Pandas** and **NumPy** for data analysis.
+- Basic knowledge of machine learning workflows, including preprocessing and feature engineering.
 
 ### Optimization & Visualization
-- Experienced with Pyomo for mathematical modeling and optimization in energy and engineering applications.
-- Skilled in data visualization using Matplotlib for effective communication of results.
-- Knowledgeable in GAMS for stochastic and deterministic optimization problems.
+- Experience with **Pyomo** for modeling and optimization.
+- Data visualization using **Matplotlib**.
+- Familiar with **GAMS** for stochastic and deterministic optimization.
 
 ### Education
-- Academic background in Electrical Power Systems Engineering, with focus on modeling, optimization, and simulation of power systems.
+- Academic background in **Electrical Power Systems Engineering**, focusing on modeling, optimization, and simulation.
