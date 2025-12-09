@@ -12,7 +12,7 @@
 ### System Administration & DevOps
 - **Docker** containerization and orchestration.
 - **Kafka** for real-time data streaming.
-- **LPIC-1 certified** in Linux administration.
+- **LPIC-1** in Linux.
 - Learning **Kubernetes & Ansible** for automated deployment.
 
 ### Data Analysis & Machine Learning
